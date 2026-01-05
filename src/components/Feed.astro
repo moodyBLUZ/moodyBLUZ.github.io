@@ -1,0 +1,40 @@
+---
+import Post from "./Post.astro";
+const { posts } = Astro.props;
+---
+
+<div class="feed">
+	{posts.map((post: unknown) => <Post post={post} />)}
+</div>
+
+<style>
+	.feed {
+		margin-inline: auto;
+		margin-top: 4rem;
+		margin-bottom: 4rem;
+
+		/* width control */
+		width: min(100%, clamp(42rem, 70vw, 68rem));
+
+		/* floating glass look */
+		background: rgba(255, 255, 255, 0.45);
+		backdrop-filter: blur(18px);
+		-webkit-backdrop-filter: blur(18px);
+
+		border-radius: 1.5rem;
+		box-shadow:
+			0 10px 40px rgba(0, 0, 0, 0.08),
+			inset 0 0 0 1px rgba(255, 255, 255, 0.25);
+
+		/* internal breathing room */
+		padding-inline: clamp(1.25rem, 4vw, 3rem);
+		padding-block: 2rem 6rem;
+
+		/* post layout */
+		display: flex;
+		flex-direction: column;
+		gap: 1.5rem;
+
+		position: relative;
+	}
+</style>
