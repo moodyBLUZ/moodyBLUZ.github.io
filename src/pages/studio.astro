@@ -1,8 +1,0 @@
----
-import StudioApp from "../components/StudioApp.jsx";
-import AuthGate from "../components/AuthGate.jsx";
-
-const isAuthed = Astro.cookies.get("studio_auth")?.value === "true";
----
-
-{isAuthed ? <StudioApp client:load /> : <AuthGate client:load />}
