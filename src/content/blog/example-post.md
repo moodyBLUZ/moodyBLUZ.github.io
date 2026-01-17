@@ -5,7 +5,7 @@ pubDate: 2026-01-04
 author: Dylan Beebe
 authorEmail: dylbeebe@gmail.com
 image:
-    url: public/images/contentadvisory.png
+    url: moodyBLUZ.github.io/images/contentadvisory.png
     alt: "This is the alt text, where you describe verbatim what is occuring in the image. This allows screen readers to provide visual context to visually-impaired readers."
 ---
 
