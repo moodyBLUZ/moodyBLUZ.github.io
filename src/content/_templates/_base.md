@@ -1,12 +1,12 @@
 ---
-title: Example post using the base template!
-description: Example post to go along with the base template.
-pubDate: 2026-01-04
-author: Dylan Beebe
-authorEmail: dylbeebe@gmail.com
+title: This is the title that will appear on the page
+description: Alyssia's first test post.
+pubDate: 2026-01-17
+author: Alyssia Ramirez
+authorEmail: alyssiaramirez97@gmail.com
 image:
-    url: /images/contentadvisory.png
-    alt: "This is the alt text, where you describe verbatim what is occuring in the image. This allows screen readers to provide visual context to visually-impaired readers."
+    url: 
+    alt: 
 ---
 
 This is the base template and the following paragraph is the standard Lorem Ipsum passage, used since the 1500s:
