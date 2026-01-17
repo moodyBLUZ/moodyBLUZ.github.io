@@ -1,2 +1,0 @@
-// Writes content files
-

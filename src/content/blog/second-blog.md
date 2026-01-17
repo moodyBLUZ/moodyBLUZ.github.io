@@ -5,7 +5,7 @@ pubDate: 2026-01-04
 author: Dylan Beebe
 authorEmail: dylbeebe@gmail.com
 image:
-    url: /images/alyssia-blog.drawio.png
+    url: me/images/alyssia-blog.drawio.png
     alt: "A swimlane diagram with four vertical lanes. From left to right: a stick figure labeled Owner/Guest with a pink bow on its head; a Frontend lane showing boxes labeled Render Feed, Render Post View, Infinite Scroll Trigger, Toggle Blog/Catalog, and View Linktree; a Backend lane showing Load Post Index, Paginate or Slice Index, and Resolve Post Content; and a Filesystem lane showing Read /content/posts and Read Static Assets."
 
 ---
