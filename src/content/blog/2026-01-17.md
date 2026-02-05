@@ -5,8 +5,8 @@ pubDate: 2026-01-17
 author: Alyssia Ramirez
 authorEmail: alyssiaramirez97@gmail.com
 image:
-    url: 
-    alt: 
+    url: images/test_pic.png
+    alt: Description of image would go here if I cared about accessibilty.
 ---
 
 This is the base template and the following paragraph is the standard Lorem Ipsum passage, used since the 1500s:
