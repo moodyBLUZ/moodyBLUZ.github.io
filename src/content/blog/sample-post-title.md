@@ -1,9 +1,9 @@
 ---
-title: Sample Post Title
-description: Alyssia's first test post.
+title: Sample Post
+description: ""
 pubDate: 2026-02-05
-author: Alyssia Ramirez
-authorEmail: alyssiaramirez97@gmail.com
+author: Dylan Beebe
+authorEmail: dylbeebe@gmail.com
 image:
     url: images/contentadvisory.png
     alt: Description of image would go here if I cared about accessibilty.
