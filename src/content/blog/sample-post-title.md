@@ -20,8 +20,12 @@ image:
 
 ### Option 1
 
-The author can insert their blog content here. Refer to the [markdown guide](https://www.markdownguide.org/basic-syntax/) for formatting guidelines.
+The author can insert their blog content here. Refer to the [markdown guide](https://www.markdownguide.org/basic-syntax/) for formatting guidelines. For supported front matter types--the metadata between the fences (`---`) at the top of the source code--see `src/content/config.ts` in the project source code.
 
 ### Option 2
 
-Additionally, email a draft of your post to the developer and have them edit and commit on their behalf.
+Email a draft of your post to the developer and have them edit and commit on their behalf.
+
+### Option 3
+
+Collaborate with your developer. Visit the [Astro docs](https://docs.astro.build/en/basics/project-structure/) to learn about organizing the Astro project.
