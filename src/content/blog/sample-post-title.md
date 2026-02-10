@@ -9,6 +9,13 @@ image:
     alt: Description of image would go here if I cared about accessibilty.
 ---
 
+<!-- This is how you write a comment. This is only visible in source code. It's an HTML-style syntax; valid HTML is valid Markdown. -->
+
+<!-- Comments can span multiple lines too...
+
+
+    ...sometimes that's helpul... -->
+
 ## How to make a post
 
 ### Option 1
