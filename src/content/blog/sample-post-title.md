@@ -22,7 +22,7 @@ image:
 
 The author can edit their blog content here as Markdown that Astro can interpret. 
 
-> Refer to the [markdown guide](https://www.markdownguide.org/basic-syntax/) and this [Github repo](https://github.com/withastro/astro/blob/main/examples/blog/src/content/blog/markdown-style-guide.md) for help writing valid Markdown. 
+> Refer to the [Markdown Guide](https://www.markdownguide.org/basic-syntax/) and this [Github repo](https://github.com/withastro/astro/blob/main/examples/blog/src/content/blog/markdown-style-guide.md) for help writing valid Markdown. 
 
 > See `src/content/config.ts` for supported front matter types--the metadata between the fences (`---`) at the top of the source code.
 
